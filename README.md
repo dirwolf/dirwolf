@@ -1,4 +1,7 @@
-<h4 align="left">Hi 👋! My name is concole.log("Dhruv Rawat").<br>I am a passionate Problem Solver, be it DSA or business Logic.<br>I am Full Stack Developer.<br>I have keen interest in Backend.<br>I am currently learning Java Springboot and System Design.<br>Happy to met you ✌️</h4>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <h4 align="left">Hi 👋! My name is concole.log("Dhruv Rawat").<br>I am a passionate Problem Solver, be it DSA or business Logic.<br>I am Full Stack Developer.<br>I have keen interest in Backend.<br>I am currently learning Java Springboot and System Design.<br>Happy to met you ✌️</h4>
+  <img height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDc2aWhwYXV6a2s3ZzRkd2Y2ZGMweWxwOTY3enVreTM5b2ZsdDI4bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" />
+</div>
 
 ###
 
@@ -78,10 +81,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
-
-###
-
-<img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDc2aWhwYXV6a2s3ZzRkd2Y2ZGMweWxwOTY3enVreTM5b2ZsdDI4bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 ###
 
