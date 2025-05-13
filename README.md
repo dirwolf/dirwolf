@@ -1,7 +1,4 @@
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <h4 align="left">Hi 👋! My name is concole.log("Dhruv Rawat").<br>I am a passionate Problem Solver, be it DSA or business Logic.<br>I am Full Stack Developer.<br>I have keen interest in Backend.<br>I am currently learning Java Springboot and System Design.<br>Happy to met you ✌️</h4>
-  <img height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDc2aWhwYXV6a2s3ZzRkd2Y2ZGMweWxwOTY3enVreTM5b2ZsdDI4bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" />
-</div>
+<h4 align="left">Hi 👋! My name is concole.log("Dhruv Rawat").<br>I am a passionate Problem Solver, be it DSA or business Logic.<br>I am Full Stack Developer.<br>I have keen interest in Backend.<br>I am currently learning Java Springboot and System Design.<br>Happy to met you ✌️</h4>
 
 ###
 
@@ -82,15 +79,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="linkedin logo"  />
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <div align="left">
+      <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="youtube logo"  />
+      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="instagram logo"  />
+      <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="twitch logo"  />
+      <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="discord logo"  />
+      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="gmail logo"  />
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="linkedin logo"  />
+    </div>
+  </div>
+  <img height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDc2aWhwYXV6a2s3ZzRkd2Y2ZGMweWxwOTY3enVreTM5b2ZsdDI4bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" />
 </div>
 
 ###
