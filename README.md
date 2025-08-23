@@ -1,4 +1,4 @@
-<h4 align="left">Hi 👋! My name is console.log("Dhruv Rawat").<br>I am a passionate Problem Solver, be it DSA or business Logic.<br>I am Full Stack Developer.<br>I have keen interest in Backend.</h4>
+<h4 align="left">Hi 👋! My name is console.log("Dhruv Rawat").<br>I am a passionate Problem Solver<br>I am Full Stack Developer.<br>I have keen interest in Backend.</h4>
 
 ###
 
